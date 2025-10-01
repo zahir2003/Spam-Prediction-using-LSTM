@@ -64,12 +64,7 @@ Welcome to the **Spam Prediction using LSTM** project! This repository demonstra
 
 ---
 
-## 📈 Example Results
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/placeholder/accuracy-plot.png" width="400" />
-  <img src="https://user-images.githubusercontent.com/placeholder/confusion-matrix.png" width="400" />
-</p>
+## 📈 Results
 
 > **Model Accuracy:** ~97% (varies by run)
 
@@ -81,7 +76,7 @@ Welcome to the **Spam Prediction using LSTM** project! This repository demonstra
 - **Modern Deep Learning:** LSTM for sequential text data
 - **Clean Visualizations:** Easy-to-understand plots and metrics
 - **Best Practices:** Modular, reproducible, and well-documented
-- **Impressive for Recruiters:** Demonstrates real-world ML workflow and technical depth
+- **Impressive:** Demonstrates real-world ML workflow and technical depth
 
 ---
 
@@ -96,10 +91,11 @@ Welcome to the **Spam Prediction using LSTM** project! This repository demonstra
 
 ## 🤝 Connect
 
-*Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/sk-mahiduzzaman) or reach out for collaboration opportunities!*
+*Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/sk-mahiduzzaman) , [Mail Id](mailto:mohiduz03@gmail.com) or reach out for collaboration opportunities!*
 
 ---
 
 <p align="center">
   <b>Thank you for visiting! ⭐ If you like this project, please star the repo!</b>
 </p>
+
