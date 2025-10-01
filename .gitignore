@@ -1,0 +1,5 @@
+.ipynb_checkpoints
+__pycache__/
+*.pyc
+spam_ham_lstm_model.h5
+data/
