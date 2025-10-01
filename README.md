@@ -34,7 +34,6 @@ Welcome to the **Spam Prediction using LSTM** project! This repository demonstra
 ```
 ├── LSTM.ipynb                # Main Jupyter Notebook (all code & analysis)
 ├── SPAM text message ...csv  # SMS Spam/Ham dataset
-├── spam_ham_lstm_model.h5    # Saved trained LSTM model
 ├── README.md                 # This file
 ```
 
@@ -91,11 +90,12 @@ Welcome to the **Spam Prediction using LSTM** project! This repository demonstra
 
 ## 🤝 Connect
 
-*Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/sk-mahiduzzaman) , [Mail Id](mailto:mohiduz03@gmail.com) or reach out for collaboration opportunities!*
+*Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/sk-mahiduzzaman) or reach out for collaboration opportunities!*
 
 ---
 
 <p align="center">
   <b>Thank you for visiting! ⭐ If you like this project, please star the repo!</b>
 </p>
+
 
